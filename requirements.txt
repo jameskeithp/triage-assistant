@@ -1,0 +1,4 @@
+# Core: stdlib only until Friday. Uncomment when the API key arrives.
+# openai>=1.0        # OpenAI client — also speaks to OpenAI-compatible APIs (Meta Model API)
+# boto3>=1.34        # live GuardDuty / SecurityHub pulls
+# python-dotenv>=1.0 # load .env
